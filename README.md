@@ -2,7 +2,7 @@
 - 👀 I’m interested in code, basketball, soccer, games, movies, TV series, etc
 - 🌱 I’m currently learning C#, english, SQL, etc
 - 💞️ I’m looking to learn more and more because as a human, I need to improve as people!
-- 📫 How to reach me: In a e-mail: d_ferreira@outlook.com
+- 📫 How to reach me: In a e-mail: d_ferreira@outlook.com / Instagram: @dvd_spider
 
 <!---
 DvdSpider/DvdSpider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
